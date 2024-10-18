@@ -1,4 +1,5 @@
 
+![Uploading tenor.gif…]()
 
 <h1 align="center">Hi 👋, I'm Alibi</h1>
 <h3 align="center">A passionate self-learner in IT field</h3>
