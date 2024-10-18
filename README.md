@@ -1,3 +1,7 @@
+https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-7.gif
+
+
+
 <h1 align="center">Hi 👋, I'm Alibi</h1>
 <h3 align="center">A passionate self-learner in IT field</h3>
 
