@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/alibi-yermekov" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:yermekovalibii@gmail.com">
+  <a href="mailto:yoooholly71@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </p>
