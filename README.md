@@ -34,7 +34,7 @@
 - 🧪 I worked at **Škoda Auto** on **QA automation** for connected vehicles  
 - 🏆 Hackathon Finalist and Winner at **Škoda Auto**, **ETH Global**, and **Digitech**  
 - 🚀 Always up for a challenge: fast learner, problem solver, and tech explorer  
-- 📫 Reach me at: **yermekovalibii@gmail.com**
+- 📫 Reach me at: **yoooholly71@gmail.com**
 
 ---
 
