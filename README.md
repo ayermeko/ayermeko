@@ -8,7 +8,7 @@
 <h3 align="center">Software Engineer | QA | Hackathon Builder | C/C++ Nerd</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AE0D3&center=true&vCenter=true&width=435&lines=Eat+%7C+Code+%7C+Debug+%7C+Repeat;Always+learning+new+techs;Lover+of+C%2C+Python%2C+Linux+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AE0D3&center=true&vCenter=true&width=435&lines=Eat+%7C+Code+%7C+Debug+%7C+Repeat;Always+learning+new+techs;Python%2C+Linux+%26+Automation" alt="Typing SVG" />
 </p>
 
 ---
