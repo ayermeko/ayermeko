@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/f4bd078c-a312-408f-a7c4-0f12c0ce5dd9" alt="tenor">
 </div>
 
-<h1 align="center">Hi 👋, I'm Alibi Yermekov</h1>
+<h1 align="center">Hi 👋, I'm Alibi</h1>
 <h3 align="center">Software Engineer | QA | Hackathon Builder | C/C++ Nerd</h3>
 
 <p align="center">
