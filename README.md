@@ -28,11 +28,9 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently studying at **42 Prague** and **Czech University of Life Sciences**  
 - 💻 I love building low-level tools, custom shells, and network systems  
 - ⚙️ I’m skilled in **C/C++**, **Python**, **Shell scripting**, **Unix/Linux systems**  
 - 🧪 I worked at **Škoda Auto** on **QA automation** for connected vehicles  
-- 🏆 Hackathon Finalist and Winner at **Škoda Auto**, **ETH Global**, and **Digitech**  
 - 🚀 Always up for a challenge: fast learner, problem solver, and tech explorer  
 - 📫 Reach me at: **yoooholly71@gmail.com**
 
